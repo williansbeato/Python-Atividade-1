@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Feijao",
+        "descricao": "Saco de feijao",
+        "preco": 5.66
+    },
+    {
+        "nome": "Milho",
+        "descricao": "Milho em lata",
+        "preco": 3.0
+    },
+    {
+        "nome": "ervilha",
+        "descricao": "lata de ervilha",
+        "preco": 4.0
+    },
+    {
+        "nome": "Arroz",
+        "descricao": "Saco de arroz 5k",
+        "preco": 18.99
+    }
+]
